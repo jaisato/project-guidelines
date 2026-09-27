@@ -8,10 +8,10 @@
 [<img src="./images/elsewhen-logo.png" width="180" height="180">](https://www.elsewhen.com/)
 
 
-# Project Guidelines &middot; [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+# Project Guidelines &middot; [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 > While developing a new project is like rolling on a green field for you, maintaining it is a potential dark twisted nightmare for someone else.
 Here's a list of guidelines we've found, written and gathered that (we think) works really well with most JavaScript projects here at [elsewhen](https://www.elsewhen.com).
-If you want to share a best practice, or think one of these guidelines should be removed, [feel free to share it with us](http://makeapullrequest.com).
+If you want to share a best practice, or think one of these guidelines should be removed, [feel free to share it with us](https://makeapullrequest.com).
 
 <hr>
 
@@ -414,7 +414,7 @@ Having a good guideline for creating commits and sticking to it makes working wi
     _Why:_
     > Breaking your build is one way of enforcing code style to your code. It prevents you from taking it less seriously. Do it for both client and server-side code. [read more...](https://www.robinwieruch.de/react-eslint-webpack-babel/)
 
-* Use [ESLint - Pluggable JavaScript linter](http://eslint.org/) to enforce code style.
+* Use [ESLint - Pluggable JavaScript linter](https://eslint.org/) to enforce code style.
 
     _Why:_
     > We simply prefer `eslint`, you don't have to. It has more rules supported, the ability to configure the rules, and ability to add custom rules.
@@ -465,7 +465,7 @@ Having a good guideline for creating commits and sticking to it makes working wi
 <a name="enforcing-code-style-standards"></a>
 ### 7.2 Enforcing code style standards
 
-* Use a [.editorconfig](http://editorconfig.org/) file which helps developers define and maintain consistent coding styles between different editors and IDEs on the project.
+* Use a [.editorconfig](https://editorconfig.org/) file which helps developers define and maintain consistent coding styles between different editors and IDEs on the project.
 
     _Why:_
     > The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles. EditorConfig files are easily readable and they work nicely with version control systems.

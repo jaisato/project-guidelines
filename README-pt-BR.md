@@ -6,11 +6,11 @@
 
 [<img src="./images/elsewhen-logo.png" width="180" height="180">](https://www.elsewhen.com/)
 
-# Padrões de Projeto &middot; [![PRs são bem vindos](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+# Padrões de Projeto &middot; [![PRs são bem vindos](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
 > Enquanto desenvolver um novo projeto é apenas diversão para você, manter esse projeto pode ser um dos piores pesadelos para outra pessoa.
 > Isso aqui é uma lista das padrões que encontramos, coletamos e escrevos que (para nós) funciona realmente bem com a maioria dos projetos JavaScript aqui na [elsewhen](https://www.elsewhen.com).
-> Se você quer compartilhar alguma prática que considera importante ou acha que alguma das coisas descritas aqui deve ser removida, [Sinta se a vontade para nos dizer](http://makeapullrequest.com).
+> Se você quer compartilhar alguma prática que considera importante ou acha que alguma das coisas descritas aqui deve ser removida, [Sinta se a vontade para nos dizer](https://makeapullrequest.com).
 
 🔥 [Confira](https://github.com/elsewhencode/react-redux-saucepan) nosso [react redux projeto base](https://github.com/elsewhencode/react-redux-saucepan) em Flow com hot reloading e server-side rendering.
 
@@ -468,7 +468,7 @@ Ter um bom padrão para criar commits e se atentar a ele faz com que trabalhar c
 
   > Quebrar o build é uma forma de forçar os padrões de código. Evite que não seja levado a sério. Faça isso tanto para o backend quanto para o front. [Leia mais sobre...](https://www.robinwieruch.de/react-eslint-webpack-babel/)
 
-- Use [ESLint - Pluggable JavaScript linter](http://eslint.org/) para garantir que os padrões serão seguidos.
+- Use [ESLint - Pluggable JavaScript linter](https://eslint.org/) para garantir que os padrões serão seguidos.
 
   _Por que?_
 
@@ -522,7 +522,7 @@ Ter um bom padrão para criar commits e se atentar a ele faz com que trabalhar c
 
 ### 7.2 Force o code style
 
-- Use o arquivo [.editorconfig](http://editorconfig.org/) para ajudar a definir e manter a consistência de estilo de código entre diferentes editores e IDE.
+- Use o arquivo [.editorconfig](https://editorconfig.org/) para ajudar a definir e manter a consistência de estilo de código entre diferentes editores e IDE.
 
   _Por que?_
 

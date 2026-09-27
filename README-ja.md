@@ -8,10 +8,10 @@
 [<img src="./images/elsewhen-logo.png" width="180" height="180">](https://www.elsewhen.com/)
 
 
-# プロジェクトガイドライン[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+# プロジェクトガイドライン[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 > 開発中の新たなプロジェクトは草原のようですが、メンテナンスは誰にとっても悪夢になります。
 ここには私たちが見つけ記載し、集め考えたガイドラインがあります。 このガイドラインはほとんどの[elsewhen](https://www.elsewhen.com)のJavaScriptのプロジェクトで機能しています。
-もしもベストプラクティスを我々と共有したかったり、このガイドラインの項目は削除した方が良いと思ったら[気軽に私たちに報告してください](http://makeapullrequest.com)。
+もしもベストプラクティスを我々と共有したかったり、このガイドラインの項目は削除した方が良いと思ったら[気軽に私たちに報告してください](https://makeapullrequest.com)。
 - [Git](#git)
     - [Gitのルール](#some-git-rules)
     - [Git workflow](#git-workflow)
@@ -412,7 +412,7 @@
     _Why:_
     >ビルドを壊すことはコードスタイルを矯正する一つの方法になります。あなたがだんだんコードスタイルを真剣に捉えなくなるということを防いでくれます。クライアントとサーバーサイドのコード両方に導入しましょう。[もっと読む...](https://www.robinwieruch.de/react-eslint-webpack-babel/)
 
-* コードスタイルを強制するために[ESLint - Pluggable JavaScript linter](http://eslint.org/)を使いましょう。
+* コードスタイルを強制するために[ESLint - Pluggable JavaScript linter](https://eslint.org/)を使いましょう。
 
     _Why:_
     >私たちはシンプルな `eslint` が好きなだけなので、あなたがそうである必要はないです。`eslint` 自体たくさんのルールをサポートしています。ルールを設定でき、カスタムルールを追加することができます。

@@ -8,10 +8,10 @@
 [<img src="./images/elsewhen-logo.png" width="180" height="180">](https://www.elsewhen.com/)
 
 
-# Project Guidelines &middot; [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+# Project Guidelines &middot; [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 > 새로운 프로젝트를 개발하는 할 때는 초원에서 뛰어노는 것 같지만, 유지보수는 모두에게 잠재적인 악몽입니다.
 이것은 우리가 발견하고, 작성하고 수집한 가이드라인의 목록입니다. 이 가이드라인은 대부분의 [elsewhen](https://www.elsewhen.com)에서의 JavaScript 프로젝트에 잘 맞습니다.
-만약 모범 사례를 공유하고 싶으시거나 여기에 있는 가이드라인 중 어떤 것이 지워져야 한다고 생각하신다면, [부담없이 우리에게 공유해주세요](http://makeapullrequest.com).
+만약 모범 사례를 공유하고 싶으시거나 여기에 있는 가이드라인 중 어떤 것이 지워져야 한다고 생각하신다면, [부담없이 우리에게 공유해주세요](https://makeapullrequest.com).
 - [Git](#git)
     - [Git 규칙](#some-git-rules)
     - [Git 워크플로우](#git-workflow)
@@ -410,7 +410,7 @@ Git에는 명심해야할 규칙들이 있습니다.
     _이유:_
     > 빌드를 깨트리는 건 당신의 코드에 스타일을 강제하는 방법 중 하나입니다. 그렇게 하면 당신이 코드 스타일을 유지하는 데에 더 진지해질 겁니다. 클라이언트, 서버 양 쪽 모두에 하세요. [더 읽기](https://www.robinwieruch.de/react-eslint-webpack-babel/)
 
-* 코드 스타일을 강제하기 위해 [ESLint](http://eslint.org/)를 사용하세요.
+* 코드 스타일을 강제하기 위해 [ESLint](https://eslint.org/)를 사용하세요.
 
     _이유:_
     > 꼭 `eslint`를 선택할 필요는 없지만 우리는 `eslint`를 선호합니다. `eslint`는 더 많은 룰을 지원하고, 규칙을 설정하거나 추가할 수도 있습니다.
@@ -461,7 +461,7 @@ Git에는 명심해야할 규칙들이 있습니다.
 <a name="enforcing-code-style-standards"></a>
 ### 7.2 표준 코드 스타일 강제하기
 
-* 서로 다른 에디터들 사이에서도 일관적인 코딩 스타일을 정의하고 유지하도록 돕는 [.editorconfig](http://editorconfig.org/) 파일을 사용하세요.
+* 서로 다른 에디터들 사이에서도 일관적인 코딩 스타일을 정의하고 유지하도록 돕는 [.editorconfig](https://editorconfig.org/) 파일을 사용하세요.
 
     _이유:_
     > EditorConfig 프로젝트는 코딩 스타일을 정의하는 파일 포맷과, 에디터가 파일 포맷을 읽을 수 있도록 도와주고 정의한 스타일을 고수하는 텍스트 에디터 플러그인들의 모음으로 정의됩니다. EditorConfig 파일은 가독성이 좋고 버전 컨트롤 시스템과도 잘 동작합니다.

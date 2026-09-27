@@ -7,11 +7,11 @@
 
 [<img src="./images/elsewhen-logo.png" width="180" height="180">](https://www.elsewhen.com/)
 
-# 项目规范 &middot; [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+# 项目规范 &middot; [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
 JavaScript工程项目的一系列最佳实践策略
 
-> 当您在青葱的田野里翻滚一般欢乐（而不受约束）地开发一个新项目，对其他人而言维护这样一个项目简直就是一个潜在的可怕的噩梦。以下列出的指南是我们在[elsewhen](https://www.elsewhen.com)的大多数JavaScript项目中发现，撰写和收集的最佳实践（至少我们是这样认为的）。如果您想分享其他最佳实践，或者认为其中一些指南应该删除。[欢迎随时与我们分享](http://makeapullrequest.com)。
+> 当您在青葱的田野里翻滚一般欢乐（而不受约束）地开发一个新项目，对其他人而言维护这样一个项目简直就是一个潜在的可怕的噩梦。以下列出的指南是我们在[elsewhen](https://www.elsewhen.com)的大多数JavaScript项目中发现，撰写和收集的最佳实践（至少我们是这样认为的）。如果您想分享其他最佳实践，或者认为其中一些指南应该删除。[欢迎随时与我们分享](https://makeapullrequest.com)。
 - [Git](#git)
     - [一些git规则](#some-git-rules)
     - [Git工作流](#git-workflow)
@@ -421,7 +421,7 @@ JavaScript工程项目的一系列最佳实践策略
     _为什么：_
     > 在构建时中断下一步操作是一种强制执行代码风格检查的方法。强制您认真对待代码。请确保在客户端和服务器端代码都执行代码检查。 [更多请阅读...](https://www.robinwieruch.de/react-eslint-webpack-babel/)
 
-* 使用 [ESLint - Pluggable JavaScript linter](http://eslint.org/) 去强制执行代码检查。
+* 使用 [ESLint - Pluggable JavaScript linter](https://eslint.org/) 去强制执行代码检查。
 
     _为什么：_
     > 我们个人很喜欢 `eslint` ，不强制您也喜欢。它拥有支持更多的规则，配置规则的能力和添加自定义规则的能力。
