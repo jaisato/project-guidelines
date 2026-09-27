@@ -179,7 +179,7 @@ JavaScript工程项目的一系列最佳实践策略
 
  * 使用主体部分去解释 **是什么** 和 **为什么** 而不是 **怎么做**。
 
- <a name="文档"></a>
+ <a name="documentation"></a>
 ## 2. 文档
 
 ![文档](/images/documentation.png)
