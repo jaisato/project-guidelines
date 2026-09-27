@@ -16,7 +16,7 @@
 
 <hr>
 
-- [Padrões de Projeto &middot; ![PRs são bem vindos](http://makeapullrequest.com)](#padr%C3%B5es-de-projeto-middot-prs-s%C3%A3o-bem-vindoshttpmakeapullrequestcom)
+- [Padrões de Projeto &middot; ![PRs são bem vindos](https://makeapullrequest.com)](#padr%C3%B5es-de-projeto-middot-prs-s%C3%A3o-bem-vindoshttpsmakeapullrequestcom)
   - [1. Git](#1-git)
     - [1.1 Algumas regras do Git](#11-algumas-regras-do-git)
     - [1.2 Git workflow](#12-git-workflow)
